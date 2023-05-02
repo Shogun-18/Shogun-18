@@ -1,6 +1,6 @@
 ## Olá!
 
-- Atualmente estou fazendo um curso de Desenvolvimento de Sistemas
+- Atualmente estou fazendo um curso de Técnico de Análise e Desenvolvimento de Sistemas
 - Moro em Maringá/Paraná
 
 ##
